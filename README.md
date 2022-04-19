@@ -6,6 +6,8 @@
 
 项目地址：https://github.com/jfok1972/quick-build-spring-boot
 
+项目地址：https://gitee.com/jhopesoft/quick-build-spring-boot
+
 获取项目
 ```bash
 git clone https://github.com/jfok1972/quick-build-spring-boot.git
@@ -21,6 +23,8 @@ git clone https://gitee.com/jhopesoft/quick-build-spring-boot
 
 项目地址：https://github.com/jfok1972/quick-build-antd
 
+项目地址：https://gitee.com/jhopesoft/quick-build-antd
+
 获取项目
 ```bash
 git clone https://github.com/jfok1972/quick-build-antd.git
@@ -34,7 +38,9 @@ git clone https://gitee.com/jhopesoft/quick-build-antd
 
 本项目在 Visual Studio Code 中建立，其他开发工具请自行适配。
 
-项目地址：https://github.com/jfok1972/quick-build-
+项目地址：https://github.com/jfok1972/quick-build-extjs6
+
+项目地址：https://gitee.com/jhopesoft/quick-build-extjs6
 
 获取项目
 ```bash
