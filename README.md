@@ -19,6 +19,8 @@ git clone https://gitee.com/jhopesoft/quick-build-spring-boot
 
 本项目在 Visual Studio Code 中建立，其他开发工具请自行适配。
 
+项目地址：https://github.com/jfok1972/quick-build-antd
+
 获取项目
 ```bash
 git clone https://github.com/jfok1972/quick-build-antd.git
@@ -31,6 +33,8 @@ git clone https://gitee.com/jhopesoft/quick-build-antd
 开发语言：javaScript，Extjs6.2 GPL 框架
 
 本项目在 Visual Studio Code 中建立，其他开发工具请自行适配。
+
+项目地址：https://github.com/jfok1972/quick-build-
 
 获取项目
 ```bash
